@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning IELTS
-📫 How to reach me: 
+- 🌱 I’m currently learning IELTS
+- 📫 How to reach me: 
 QQ: 379999068
 Wechat: a123wyn
 <!--
@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=a123wyn&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a123wyn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a123wyn)](https://github.com/anuraghazra/github-readme-stats)
+
