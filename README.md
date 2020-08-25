@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+🌱 I’m currently learning IELTS
+📫 How to reach me: 
+QQ: 379999068
+Wechat: a123wyn
 <!--
 **a123wyn/a123wyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a123wyn)](https://github.com/anuraghazra/github-readme-stats)
