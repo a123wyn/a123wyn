@@ -1,9 +1,7 @@
 ### Hi there 👋
 - https://a123wyn.github.io
 - 🌱 I’m currently learning IELTS
-- 📫 How to reach me: 
-QQ: 379999068
-Wechat: a123wyn
+- 📫 QQ: 379999068 Wechat: a123wyn
 <!--
 **a123wyn/a123wyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
