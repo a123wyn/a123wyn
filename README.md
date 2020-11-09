@@ -1,7 +1,7 @@
 ### Hi there 👋
 - https://a123wyn.github.io
-- 🌱 I’m currently learning IELTS
-- 📫 QQ: 379999068 Wechat: a123wyn
+- 🌱 I’m currently reviewing probability and statistics.
+- 📫 QQ: 379999068 Wechat: a123wyn Website:https://a123wyn.github.io/
 <!--
 **a123wyn/a123wyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
