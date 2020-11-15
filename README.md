@@ -1,5 +1,5 @@
 ### Hi there 👋
-- https://a123wyn.github.io
+- https://a123wyn.studio
 - 🌱 I’m currently reviewing probability and statistics.
 - 📫 QQ: 379999068 Wechat: a123wyn
 <!--
