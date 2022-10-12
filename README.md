@@ -1,6 +1,6 @@
 ### Hi there 👋
 - https://a123wyn.studio
-- 🌱 I’m currently working in Shoplazza.
+- 🎓 Msc in IMBA in CUHKSZ
 - 📫 QQ: 379999068 Wechat: a123wyn
 <!--
 **a123wyn/a123wyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
